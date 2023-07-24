@@ -1,1 +1,0 @@
-Hola .gitignore 2023-2
